@@ -1,0 +1,11 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore other folder
+other/
+
+# Ignore package-lock.json file
+package-lock.json
+
+# Ignore chatbot.zip file
+chatbot.zip
