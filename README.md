@@ -9,7 +9,7 @@ This repository contains the code and resources needed to implement a ChatGPT-po
 - **Voiceflow Frontend**: A no-code solution for building and deploying interactive chatbot interfaces.
 - **Knowledge Base Storage**: Data stored in Amazon S3, with Retrieval-Augmented Generation (RAG) for efficient context-based responses.
 
-![Chatbot Architecture](./other/chatbot_architecture.png)
+![Chatbot Architecture](./chatbot_architecture.png)
 
 ## Prerequisites
 - OpenAI API key with GPT-4 access (approx. $5 in credit needed for API calls).
